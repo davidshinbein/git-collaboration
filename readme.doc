@@ -5,5 +5,5 @@ conflicts or separate histories would have existed.
 B Answer: A merge conflict between develop and conflict_branch would occur if line 13 was changed to be "x" in the develop branch, 
 and line 13 was changed to be "y" in the conflict_branch. When We attempt to merge the files, there will be a merge conflict. 
 
-C Answer: A merge conflict would not occur if develop changed line 13 to "x" and conflict_branch changed line 14 to "y", because the changes are made to different lines.
+C Answer: A merge conflict would not occur if develop added a new paragraph saying "x" and conflict_branch added another new paragraph saying "y", because the changes are made to different lines.
 
