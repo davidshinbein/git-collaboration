@@ -1,1 +1,2 @@
-
+Answer: Both merges are fast-forward merges because the target branch (develop) was always an ancestor of the feature branch being merged, 
+meaning there were no conflicting changes or divergent history to resolve.
