@@ -1,3 +1,3 @@
 Answer: We merged incorrectly, creating a three-way merge because changes were made to both branches beforehand. If done correctly, 
-both merges would have been fast-forward merges, since the target branch (develop) was always an ancestor of the feature branch and no 
-conflicts or separate histories existed.
+both merges would have been fast-forward merges, since the target branch (develop) would have always been an ancestor of the feature branch and no 
+conflicts or separate histories would have existed.
